@@ -7,3 +7,4 @@ Build posts live on the [portfolio](https://latablebleue.fr/woodworking/).
 ## Projects
 
 - [`bread-rest`](bread-rest) — [Oak bread rest](https://latablebleue.fr/oak-bread-rest/)
+- [`foot-rest`](foot-rest) — [Walnut foot rest](hhttps://latablebleue.fr/making-a-walnut-footrest-with-danish-cord-weaving/)
